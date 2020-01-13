@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> My first HTML Page
+</title>
+</head>
+<body>
+<h1> My introduction </h1>
+<p> This is random text. 
+&lt;p&gt; this is visible as html code ()note rendered &lt;/p&gt;
+    
+    <!-- comment
+        weeweewee.jee.fii
+    -->
 
-You can use the [editor on GitHub](https://github.com/jyri19106/jyri_avdeikovwww/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    
+     Hello World. Let's see what happens</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div><em>element 1</em> <em>element 2</em> <em>element 3</em></div>
+<div>
+    <em>new line</em>
+    <h2>this is heading 2</h2>
+    <ul>
+            <li>Deepak</li>
+            <li>Markku</li>
+            <li>Pekka</li>
+            <li>Juha</li>
+          </ul>
+          <ol>
+                <li>Deepak</li>
+                <li>Markku</li>
+                <li>Pekka</li>
+                <li>Juha</li>
+              </ol>
+              <ol>
+                    <b>
+                    <li>Chapter 1</li>
+                    <li><u>Chapter 2</u></li>
+                    <li>Chapter 3</li>
+                    <li>Chapter 4
+                      <ul>
+                        <li>Chapter 4.1</li>
+                        <li>Chapter 4.2</li>
+                      </ul>
+                    </li>
+                  </ol>
+                  </b>
+                  <img src="https://raw.githubusercontent.com/dipaish/www2020/master/docs/images/header.png "height="200px" width="900px" title="image from yle" alt="image"/>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jyri19106/jyri_avdeikovwww/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+</body>
+</html>
