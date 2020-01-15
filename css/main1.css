@@ -1,4 +1,6 @@
 .flexContener{
     display: flex;
     background-color: red;
+    align-content: space-between;
+    flex-wrap: wrap;
 }
