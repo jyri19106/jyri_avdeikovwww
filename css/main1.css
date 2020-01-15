@@ -4,3 +4,18 @@
     align-content: space-between;
     flex-wrap: wrap;
 }
+
+.flexContener > div{
+    background-color: yellow;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    width: fit-content;
+}
+
+.flexcolumn{
+    display: flex;
+    background-color: green;
+    flex-direction: column;
+}
