@@ -21,8 +21,8 @@
 }
 
 .box{
-    float: left;
-    width: 200px;
+    float: right;
+    width: 150px;
     background-color: blue;
-    min-height: 400px;
+    min-height: 360px;
 }
