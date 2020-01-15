@@ -11,3 +11,11 @@ p {
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header{
+    color: rgb(207, 207, 0);
+}
+h1 .warning{
+    color: blueviolet;
+    background-color: orange;
+}
