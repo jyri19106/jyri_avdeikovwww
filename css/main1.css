@@ -19,3 +19,11 @@
     background-color: green;
     flex-direction: column;
 }
+
+.box{
+    float: left;
+    width: 200px;
+    margin: 20px;
+    background-color: blue;
+    min-height: 400px;
+}
